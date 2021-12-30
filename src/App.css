@@ -1,0 +1,22 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    padding: 50px;
+}
+
+table {
+    border: 1px solid #000;
+    width: 100%;
+}
+
+th{
+    background-color: #eee;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #000;
+}
